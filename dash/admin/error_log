@@ -1,0 +1,30 @@
+[02-Jul-2024 20:31:41 UTC] PHP Warning:  require_once(../../../backend/configuration/database.php): Failed to open stream: No such file or directory in /home/nebulanu1/public_html/dash/admin/header.php on line 3
+[02-Jul-2024 20:31:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../backend/configuration/database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/nebulanu1/public_html/dash/admin/header.php:3
+Stack trace:
+#0 /home/nebulanu1/public_html/dash/admin/home.php(3): include()
+#1 {main}
+  thrown in /home/nebulanu1/public_html/dash/admin/header.php on line 3
+[02-Jul-2024 20:31:49 UTC] PHP Warning:  require_once(../../../backend/configuration/database.php): Failed to open stream: No such file or directory in /home/nebulanu1/public_html/dash/admin/header.php on line 3
+[02-Jul-2024 20:31:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../backend/configuration/database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/nebulanu1/public_html/dash/admin/header.php:3
+Stack trace:
+#0 /home/nebulanu1/public_html/dash/admin/home.php(3): include()
+#1 {main}
+  thrown in /home/nebulanu1/public_html/dash/admin/header.php on line 3
+[02-Jul-2024 20:32:05 UTC] PHP Warning:  require_once(../../../backend/configuration/database.php): Failed to open stream: No such file or directory in /home/nebulanu1/public_html/dash/admin/header.php on line 3
+[02-Jul-2024 20:32:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../backend/configuration/database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/nebulanu1/public_html/dash/admin/header.php:3
+Stack trace:
+#0 /home/nebulanu1/public_html/dash/admin/home.php(3): include()
+#1 {main}
+  thrown in /home/nebulanu1/public_html/dash/admin/header.php on line 3
+[02-Jul-2024 20:36:19 UTC] PHP Warning:  require_once(../../../backend/configuration/database.php): Failed to open stream: No such file or directory in /home/nebulanu1/public_html/dash/admin/header.php on line 3
+[02-Jul-2024 20:36:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../backend/configuration/database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/nebulanu1/public_html/dash/admin/header.php:3
+Stack trace:
+#0 /home/nebulanu1/public_html/dash/admin/home.php(3): include()
+#1 {main}
+  thrown in /home/nebulanu1/public_html/dash/admin/header.php on line 3
+[02-Jul-2024 20:37:33 UTC] PHP Warning:  require_once(../../../backend/configuration/database.php): Failed to open stream: No such file or directory in /home/nebulanu1/public_html/dash/admin/header.php on line 3
+[02-Jul-2024 20:37:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../backend/configuration/database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/nebulanu1/public_html/dash/admin/header.php:3
+Stack trace:
+#0 /home/nebulanu1/public_html/dash/admin/home.php(3): include()
+#1 {main}
+  thrown in /home/nebulanu1/public_html/dash/admin/header.php on line 3

@@ -1,0 +1,205 @@
+[02-Jul-2024 16:43:57 UTC] PHP Warning:  require(../../../backend/configuration/database.php): Failed to open stream: No such file or directory in /home/nebulanu1/public_html/rest/auth/login.php on line 5
+[02-Jul-2024 16:43:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../backend/configuration/database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/nebulanu1/public_html/rest/auth/login.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nebulanu1/public_html/rest/auth/login.php on line 5
+[02-Jul-2024 20:44:03 UTC] PHP Warning:  require(../../../backend/configuration/database.php): Failed to open stream: No such file or directory in /home/nebulanu1/public_html/rest/auth/register.php on line 3
+[02-Jul-2024 20:44:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../backend/configuration/database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/nebulanu1/public_html/rest/auth/register.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/nebulanu1/public_html/rest/auth/register.php on line 3
+[02-Jul-2024 20:44:08 UTC] PHP Warning:  require(../../../backend/configuration/database.php): Failed to open stream: No such file or directory in /home/nebulanu1/public_html/rest/auth/register.php on line 3
+[02-Jul-2024 20:44:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../backend/configuration/database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/nebulanu1/public_html/rest/auth/register.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/nebulanu1/public_html/rest/auth/register.php on line 3
+[02-Jul-2024 20:44:10 UTC] PHP Warning:  require(../../../backend/configuration/database.php): Failed to open stream: No such file or directory in /home/nebulanu1/public_html/rest/auth/register.php on line 3
+[02-Jul-2024 20:44:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../backend/configuration/database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/nebulanu1/public_html/rest/auth/register.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/nebulanu1/public_html/rest/auth/register.php on line 3
+[02-Jul-2024 20:44:10 UTC] PHP Warning:  require(../../../backend/configuration/database.php): Failed to open stream: No such file or directory in /home/nebulanu1/public_html/rest/auth/register.php on line 3
+[02-Jul-2024 20:44:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../backend/configuration/database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/nebulanu1/public_html/rest/auth/register.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/nebulanu1/public_html/rest/auth/register.php on line 3
+[02-Jul-2024 20:44:10 UTC] PHP Warning:  require(../../../backend/configuration/database.php): Failed to open stream: No such file or directory in /home/nebulanu1/public_html/rest/auth/register.php on line 3
+[02-Jul-2024 20:44:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../backend/configuration/database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/nebulanu1/public_html/rest/auth/register.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/nebulanu1/public_html/rest/auth/register.php on line 3
+[02-Jul-2024 20:44:10 UTC] PHP Warning:  require(../../../backend/configuration/database.php): Failed to open stream: No such file or directory in /home/nebulanu1/public_html/rest/auth/register.php on line 3
+[02-Jul-2024 20:44:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../backend/configuration/database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/nebulanu1/public_html/rest/auth/register.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/nebulanu1/public_html/rest/auth/register.php on line 3
+[02-Jul-2024 20:44:10 UTC] PHP Warning:  require(../../../backend/configuration/database.php): Failed to open stream: No such file or directory in /home/nebulanu1/public_html/rest/auth/register.php on line 3
+[02-Jul-2024 20:44:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../backend/configuration/database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/nebulanu1/public_html/rest/auth/register.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/nebulanu1/public_html/rest/auth/register.php on line 3
+[02-Jul-2024 20:44:21 UTC] PHP Warning:  require(../../../backend/configuration/database.php): Failed to open stream: No such file or directory in /home/nebulanu1/public_html/rest/auth/register.php on line 3
+[02-Jul-2024 20:44:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../backend/configuration/database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/nebulanu1/public_html/rest/auth/register.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/nebulanu1/public_html/rest/auth/register.php on line 3
+[02-Jul-2024 20:44:31 UTC] PHP Warning:  require(../../../backend/configuration/database.php): Failed to open stream: No such file or directory in /home/nebulanu1/public_html/rest/auth/register.php on line 3
+[02-Jul-2024 20:44:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../backend/configuration/database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/nebulanu1/public_html/rest/auth/register.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/nebulanu1/public_html/rest/auth/register.php on line 3
+[02-Jul-2024 20:44:37 UTC] PHP Warning:  require(../../../backend/configuration/database.php): Failed to open stream: No such file or directory in /home/nebulanu1/public_html/rest/auth/register.php on line 3
+[02-Jul-2024 20:44:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../backend/configuration/database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/nebulanu1/public_html/rest/auth/register.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/nebulanu1/public_html/rest/auth/register.php on line 3
+[02-Jul-2024 20:45:31 UTC] PHP Warning:  require(../../../backend/configuration/database.php): Failed to open stream: No such file or directory in /home/nebulanu1/public_html/rest/auth/register.php on line 3
+[02-Jul-2024 20:45:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../backend/configuration/database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/nebulanu1/public_html/rest/auth/register.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/nebulanu1/public_html/rest/auth/register.php on line 3
+[02-Jul-2024 20:48:19 UTC] PHP Warning:  require(../../../backend/configuration/database.php): Failed to open stream: No such file or directory in /home/nebulanu1/public_html/rest/auth/login.php on line 5
+[02-Jul-2024 20:48:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../backend/configuration/database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/nebulanu1/public_html/rest/auth/login.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nebulanu1/public_html/rest/auth/login.php on line 5
+[02-Jul-2024 20:48:28 UTC] PHP Warning:  require(../../../backend/configuration/database.php): Failed to open stream: No such file or directory in /home/nebulanu1/public_html/rest/auth/login.php on line 5
+[02-Jul-2024 20:48:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../backend/configuration/database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/nebulanu1/public_html/rest/auth/login.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nebulanu1/public_html/rest/auth/login.php on line 5
+[02-Jul-2024 20:49:10 UTC] PHP Warning:  require(../../../backend/configuration/database.php): Failed to open stream: No such file or directory in /home/nebulanu1/public_html/rest/auth/register.php on line 3
+[02-Jul-2024 20:49:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../backend/configuration/database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/nebulanu1/public_html/rest/auth/register.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/nebulanu1/public_html/rest/auth/register.php on line 3
+[02-Jul-2024 20:49:15 UTC] PHP Warning:  require(../../../backend/configuration/database.php): Failed to open stream: No such file or directory in /home/nebulanu1/public_html/rest/auth/register.php on line 3
+[02-Jul-2024 20:49:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../backend/configuration/database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/nebulanu1/public_html/rest/auth/register.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/nebulanu1/public_html/rest/auth/register.php on line 3
+[02-Jul-2024 20:49:19 UTC] PHP Warning:  require(../../../backend/configuration/database.php): Failed to open stream: No such file or directory in /home/nebulanu1/public_html/rest/auth/register.php on line 3
+[02-Jul-2024 20:49:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../backend/configuration/database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/nebulanu1/public_html/rest/auth/register.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/nebulanu1/public_html/rest/auth/register.php on line 3
+[02-Jul-2024 20:49:27 UTC] PHP Warning:  require(../../../backend/configuration/database.php): Failed to open stream: No such file or directory in /home/nebulanu1/public_html/rest/auth/register.php on line 3
+[02-Jul-2024 20:49:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../backend/configuration/database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/nebulanu1/public_html/rest/auth/register.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/nebulanu1/public_html/rest/auth/register.php on line 3
+[02-Jul-2024 20:49:30 UTC] PHP Warning:  require(../../../backend/configuration/database.php): Failed to open stream: No such file or directory in /home/nebulanu1/public_html/rest/auth/register.php on line 3
+[02-Jul-2024 20:49:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../backend/configuration/database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/nebulanu1/public_html/rest/auth/register.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/nebulanu1/public_html/rest/auth/register.php on line 3
+[02-Jul-2024 20:49:33 UTC] PHP Warning:  require(../../../backend/configuration/database.php): Failed to open stream: No such file or directory in /home/nebulanu1/public_html/rest/auth/register.php on line 3
+[02-Jul-2024 20:49:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../backend/configuration/database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/nebulanu1/public_html/rest/auth/register.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/nebulanu1/public_html/rest/auth/register.php on line 3
+[02-Jul-2024 20:49:54 UTC] PHP Warning:  require(../../../backend/configuration/database.php): Failed to open stream: No such file or directory in /home/nebulanu1/public_html/rest/auth/login.php on line 5
+[02-Jul-2024 20:49:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../backend/configuration/database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/nebulanu1/public_html/rest/auth/login.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nebulanu1/public_html/rest/auth/login.php on line 5
+[02-Jul-2024 20:52:56 UTC] PHP Warning:  require(../../../backend/configuration/database.php): Failed to open stream: No such file or directory in /home/nebulanu1/public_html/rest/auth/register.php on line 3
+[02-Jul-2024 20:52:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../backend/configuration/database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/nebulanu1/public_html/rest/auth/register.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/nebulanu1/public_html/rest/auth/register.php on line 3
+[02-Jul-2024 20:55:12 UTC] PHP Warning:  require(../../../backend/configuration/database.php): Failed to open stream: No such file or directory in /home/nebulanu1/public_html/rest/auth/login.php on line 5
+[02-Jul-2024 20:55:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../backend/configuration/database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/nebulanu1/public_html/rest/auth/login.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nebulanu1/public_html/rest/auth/login.php on line 5
+[02-Jul-2024 20:55:13 UTC] PHP Warning:  require(../../../backend/configuration/database.php): Failed to open stream: No such file or directory in /home/nebulanu1/public_html/rest/auth/login.php on line 5
+[02-Jul-2024 20:55:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../backend/configuration/database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/nebulanu1/public_html/rest/auth/login.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nebulanu1/public_html/rest/auth/login.php on line 5
+[02-Jul-2024 21:03:22 UTC] PHP Warning:  require(../../../backend/configuration/database.php): Failed to open stream: No such file or directory in /home/nebulanu1/public_html/rest/auth/register.php on line 3
+[02-Jul-2024 21:03:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../backend/configuration/database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/nebulanu1/public_html/rest/auth/register.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/nebulanu1/public_html/rest/auth/register.php on line 3
+[02-Jul-2024 21:07:58 UTC] PHP Warning:  require(../../../backend/configuration/database.php): Failed to open stream: No such file or directory in /home/nebulanu1/public_html/rest/auth/login.php on line 5
+[02-Jul-2024 21:07:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../backend/configuration/database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/nebulanu1/public_html/rest/auth/login.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nebulanu1/public_html/rest/auth/login.php on line 5
+[02-Jul-2024 21:08:02 UTC] PHP Warning:  require(../../../backend/configuration/database.php): Failed to open stream: No such file or directory in /home/nebulanu1/public_html/rest/auth/login.php on line 5
+[02-Jul-2024 21:08:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../backend/configuration/database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/nebulanu1/public_html/rest/auth/login.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nebulanu1/public_html/rest/auth/login.php on line 5
+[02-Jul-2024 21:08:08 UTC] PHP Warning:  require(../../../backend/configuration/database.php): Failed to open stream: No such file or directory in /home/nebulanu1/public_html/rest/auth/login.php on line 5
+[02-Jul-2024 21:08:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../backend/configuration/database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/nebulanu1/public_html/rest/auth/login.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nebulanu1/public_html/rest/auth/login.php on line 5
+[02-Jul-2024 21:08:09 UTC] PHP Warning:  require(../../../backend/configuration/database.php): Failed to open stream: No such file or directory in /home/nebulanu1/public_html/rest/auth/login.php on line 5
+[02-Jul-2024 21:08:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../backend/configuration/database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/nebulanu1/public_html/rest/auth/login.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nebulanu1/public_html/rest/auth/login.php on line 5
+[02-Jul-2024 21:08:09 UTC] PHP Warning:  require(../../../backend/configuration/database.php): Failed to open stream: No such file or directory in /home/nebulanu1/public_html/rest/auth/login.php on line 5
+[02-Jul-2024 21:08:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../backend/configuration/database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/nebulanu1/public_html/rest/auth/login.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nebulanu1/public_html/rest/auth/login.php on line 5
+[02-Jul-2024 21:08:09 UTC] PHP Warning:  require(../../../backend/configuration/database.php): Failed to open stream: No such file or directory in /home/nebulanu1/public_html/rest/auth/login.php on line 5
+[02-Jul-2024 21:08:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../backend/configuration/database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/nebulanu1/public_html/rest/auth/login.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nebulanu1/public_html/rest/auth/login.php on line 5
+[02-Jul-2024 21:08:09 UTC] PHP Warning:  require(../../../backend/configuration/database.php): Failed to open stream: No such file or directory in /home/nebulanu1/public_html/rest/auth/login.php on line 5
+[02-Jul-2024 21:08:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../backend/configuration/database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/nebulanu1/public_html/rest/auth/login.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nebulanu1/public_html/rest/auth/login.php on line 5
+[02-Jul-2024 21:08:09 UTC] PHP Warning:  require(../../../backend/configuration/database.php): Failed to open stream: No such file or directory in /home/nebulanu1/public_html/rest/auth/login.php on line 5
+[02-Jul-2024 21:08:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../backend/configuration/database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/nebulanu1/public_html/rest/auth/login.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nebulanu1/public_html/rest/auth/login.php on line 5
+[02-Jul-2024 21:09:37 UTC] PHP Warning:  require(../../../backend/configuration/database.php): Failed to open stream: No such file or directory in /home/nebulanu1/public_html/rest/auth/login.php on line 5
+[02-Jul-2024 21:09:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../backend/configuration/database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/nebulanu1/public_html/rest/auth/login.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nebulanu1/public_html/rest/auth/login.php on line 5
+[02-Jul-2024 21:09:39 UTC] PHP Warning:  require(../../../backend/configuration/database.php): Failed to open stream: No such file or directory in /home/nebulanu1/public_html/rest/auth/login.php on line 5
+[02-Jul-2024 21:09:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../backend/configuration/database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/nebulanu1/public_html/rest/auth/login.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nebulanu1/public_html/rest/auth/login.php on line 5
+[02-Jul-2024 21:12:22 UTC] PHP Warning:  require(../../../backend/configuration/database.php): Failed to open stream: No such file or directory in /home/nebulanu1/public_html/rest/auth/login.php on line 5
+[02-Jul-2024 21:12:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../backend/configuration/database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/nebulanu1/public_html/rest/auth/login.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nebulanu1/public_html/rest/auth/login.php on line 5
+[02-Jul-2024 21:12:29 UTC] PHP Warning:  require(../../../backend/configuration/database.php): Failed to open stream: No such file or directory in /home/nebulanu1/public_html/rest/auth/login.php on line 5
+[02-Jul-2024 21:12:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../backend/configuration/database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/nebulanu1/public_html/rest/auth/login.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nebulanu1/public_html/rest/auth/login.php on line 5
+[02-Jul-2024 21:14:54 UTC] PHP Warning:  require(../../../backend/configuration/database.php): Failed to open stream: No such file or directory in /home/nebulanu1/public_html/rest/auth/login.php on line 5
+[02-Jul-2024 21:14:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../backend/configuration/database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/nebulanu1/public_html/rest/auth/login.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nebulanu1/public_html/rest/auth/login.php on line 5
+[02-Jul-2024 21:15:03 UTC] PHP Warning:  require(../../../backend/configuration/database.php): Failed to open stream: No such file or directory in /home/nebulanu1/public_html/rest/auth/login.php on line 5
+[02-Jul-2024 21:15:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../backend/configuration/database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/nebulanu1/public_html/rest/auth/login.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nebulanu1/public_html/rest/auth/login.php on line 5
+[02-Jul-2024 21:15:07 UTC] PHP Warning:  require(../../../backend/configuration/database.php): Failed to open stream: No such file or directory in /home/nebulanu1/public_html/rest/auth/login.php on line 5
+[02-Jul-2024 21:15:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../backend/configuration/database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/nebulanu1/public_html/rest/auth/login.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nebulanu1/public_html/rest/auth/login.php on line 5
+[02-Jul-2024 21:16:33 UTC] PHP Warning:  require(../../../backend/configuration/database.php): Failed to open stream: No such file or directory in /home/nebulanu1/public_html/rest/auth/login.php on line 5
+[02-Jul-2024 21:16:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../../backend/configuration/database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/nebulanu1/public_html/rest/auth/login.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nebulanu1/public_html/rest/auth/login.php on line 5

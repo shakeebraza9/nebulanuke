@@ -1,0 +1,5 @@
+[02-Jul-2024 20:37:04 UTC] PHP Warning:  require(../../backend/configuration/database.php): Failed to open stream: No such file or directory in /home/nebulanu1/public_html/dash/index.php on line 2
+[02-Jul-2024 20:37:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../backend/configuration/database.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/nebulanu1/public_html/dash/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/nebulanu1/public_html/dash/index.php on line 2
